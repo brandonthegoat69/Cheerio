@@ -1,0 +1,2 @@
+# Cheerio
+A streak logger.
